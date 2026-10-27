@@ -14,7 +14,7 @@ fire==0.4.0
 fonttools==4.33.3
 fpdf==1.7.2
 grapheme==0.6.0
-idna==3.3
+idna==3.15
 imageio==2.19.3
 imageio-ffmpeg==0.4.7
 iniconfig==1.1.1

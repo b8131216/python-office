@@ -137,7 +137,7 @@ typing_extensions==4.3.0
 urllib3==1.26.12
 visualdl==2.4.0
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug==3.1.9
 xlrd==2.0.1
 XlsxWriter==3.0.3
 xlutils==2.0.0

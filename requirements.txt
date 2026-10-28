@@ -63,7 +63,7 @@ fpdf==1.7.2
 future==0.18.2
 gensim==4.2.0
 grapheme==0.6.0
-idna==3.3
+idna==3.15
 imageio==2.21.1
 imageio-ffmpeg==0.4.7
 imgaug==0.4.0
